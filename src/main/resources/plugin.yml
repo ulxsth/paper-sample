@@ -1,0 +1,4 @@
+name: Sample
+version: 1.0.0
+main: io.github.yotu.SamplePlugin
+author: yotu
